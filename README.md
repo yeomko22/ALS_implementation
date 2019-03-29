@@ -11,7 +11,7 @@ Implementation of ALS algorithm from "Collaborative Filtering for Implicit Feedb
 - alpha = 40
 
 ## Train Result
-<img src="./train_result.png" width=auto height=700></img>
+<img src="./train_result.png" width=auto height=600> </img>
 
 ## More detail
 - als.ipynb contains details of each algorithm steps.
